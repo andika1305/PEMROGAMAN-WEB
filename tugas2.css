@@ -1,0 +1,65 @@
+body{
+  margin:0;
+  background-color: tan;
+}
+
+.container{
+  max-width: 500px;
+  margin: auto;
+
+}
+
+.container h1.judul{
+  color : black;
+  font-size:200%;
+}
+.container h1.judul {text-align : center;
+}
+
+
+.container p.biodata{
+  color : black;
+  font-size:150%;
+}
+.container h2.biodata{text-align : justify;
+}
+
+.container h3.pendidikan{
+  color : black;
+  font-size:150%;
+}
+.container h3.pendidikan {text-align : left;
+}
+
+
+.container h4.hobbi{
+  color : black;
+  font-size:150%;
+}
+.container h4.hobbi {text-align : left;
+}
+
+.container h5.Movie{
+  color : black;
+  font-size:150%;
+}
+.container h5.Movie {text-align : left;
+}
+
+table{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+ }
+
+
+#table1{
+  width:100%;
+}
+
+#table2{
+  width:100%;
+}
+
+#table3{
+  width:100%;
+}
