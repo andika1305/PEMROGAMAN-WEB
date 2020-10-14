@@ -1,0 +1,282 @@
+body {
+  background-color: tan;
+  color: tan;
+}
+.background {
+  background-image: url(header.jpg);
+  background-size: 100% 100%;
+  height: 760px;
+}
+
+.header {
+  height: 300px;
+  font-family: "Charmonman";
+}
+.header .grid_7 {
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+button {
+  display: inline-block;
+  font-size: 20px;
+  letter-spacing: 0;
+  color: #fff8f8;
+  text-decoration: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.header .grid_12 {
+  margin-top: 230px;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+.about {
+  margin-top: 480px;
+  color: #525355;
+  font-family: "Chilanka";
+  font-size: 20px;
+}
+
+.about .grid_6 p {
+  text-align: justify;
+}
+
+.grid_6 img {
+  width: 30px;
+}
+.about .grid_6 h1 {
+  text-align: center;
+  padding: 10px;
+  width: 50%;
+  border: 5px solid #525355;
+  border-radius: 40px;
+  background-color: white;
+  margin: 25px auto 10px;
+  letter-spacing: 3px;
+  font-size: 25px;
+}
+
+.grid_12.education h1 {
+  border: 5px solid grey;
+  border-radius: 40px;
+  width: 546px;
+  padding: 10px;
+  color: #494848;
+  background-color: white;
+  text-align: center;
+  font-family: "Chilanka";
+  letter-spacing: 3px;
+  font-size: 25px;
+}
+.grid_1 .item {
+  border: 3px solid grey;
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: salmon;
+  margin: 10px;
+}
+.grid_1 .item2 {
+  border: 3px solid grey;
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: lightseagreen;
+  margin: 10px;
+}
+.grid_1 .item3 {
+  border: 3px solid grey;
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: #4ef348;
+  margin: 10px;
+}
+.grid_1 .item4 {
+  border: 3px solid grey;
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  background-color: #d2f918;
+  margin: 10px;
+}
+.grid_11.school {
+  background-color: #343434;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  font-family: "Chilanka";
+  font-size: 18px;
+  color: lightgrey;
+}
+
+.grid_12.portofolio h1 {
+  border: 5px solid #707274;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 30px auto 30px;
+  text-align: center;
+  width: 360px;
+  color: #494848;
+  background-color: white;
+  font-family: "Chilanka";
+  letter-spacing: 3px;
+  font-size: 25px;
+}
+
+.grid_4 .card {
+  border-radius: 10px;
+  margin: auto;
+  width: 225px;
+  overflow: hidden;
+  box-shadow: 10px 10px 15px #707274;
+  box-sizing: border-box;
+  background-color: hsl(0, 2%, 38%);
+  font-family: "Chilanka";
+  font-size: 18px;
+  color: lightgrey;
+}
+.grid_4 .card p {
+  padding: 5px;
+  text-align: justify;
+}
+
+.footer {
+  color: #494848;
+  margin-top: 45px;
+}
+
+.footer.grid_7 h1 {
+  border: 5px solid #525355;
+  border-radius: 40px;
+  box-sizing: border-box;
+  width: 372px;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+  background-color: white;
+  font-family: "Chilanka";
+  letter-spacing: 3px;
+  font-size: 25px;
+}
+
+.footer.grid_5 h1 {
+  border: 5px solid #525355;
+  border-radius: 40px;
+  box-sizing: border-box;
+  width: 312px;
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+  font-family: "Chilanka";
+  letter-spacing: 3px;
+  font-size: 25px;
+}
+
+.grid_7.skill {
+  width: 508px;
+  margin-top: 30px;
+  background-color: #343434;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 30px;
+  font-family: "Chilanka";
+  font-size: 18px;
+  color: lightgrey;
+}
+
+.grid_7.skill .bar {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.grid_7.skill .bar .box1_1 {
+  width: 90px;
+}
+
+.grid_7.skill .bar .box1_2 {
+  background-color: rgb(241, 240, 240);
+  width: 50%;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+.grid_7.skill .bar .box1_3 {
+  background-color: #615b5b;
+  width: 90%;
+  height: 100%;
+  border-radius: 30px;
+}
+
+.grid_7.skill .bar .box2_1 {
+  width: 90px;
+}
+
+.grid_7.skill .bar .box2_2 {
+  background-color: rgb(241, 240, 240);
+  width: 50%;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+.grid_7.skill .bar .box2_3 {
+  background-color: #615b5b;
+  width: 70%;
+  height: 100%;
+  border-radius: 30px;
+}
+
+.grid_7.skill .bar .box3_1 {
+  width: 90px;
+}
+
+.grid_7.skill .bar .box3_2 {
+  background-color: rgb(241, 240, 240);
+  width: 50%;
+  margin-left: 70px;
+  border-radius: 30px;
+}
+
+.grid_7.skill .bar .box3_3 {
+  background-color: #615b5b;
+  width: 50%;
+  height: 100%;
+  border-radius: 30px;
+}
+
+.grid_5.contact {
+  margin-top: 30px;
+  background-color: #343434;
+  box-sizing: border-box;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 17vh;
+}
+
+.grid_5.contact ul {
+  position: relative;
+  display: flex;
+}
+
+.grid_5.contact ul li {
+  position: relative;
+  list-style: none;
+  margin: 0 20px;
+  cursor: pointer;
+}
+
+.grid_5.contact ul li a {
+  text-decoration: none;
+}
+
+.grid_5.contact ul li a .fa {
+  font-size: 4em;
+  color: lightgrey;
+}
