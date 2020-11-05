@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana;
+    font-size: medium;
+    text-align: justify;
+    color: tan ;
+}
+
+p {
+    font-family: monospace; 
+    font-size: large;
+    text-align: right, justify; 
+    color: black;
+}
+
+p1 {
+    font-family: monospace; 
+    font-size: x-large;
+    text-align: bold, right, justify; 
+    color: black; 
+}
+
+h1 {
+    font-family: Verdana; 
+    font-size: xx-large; 
+    color: green;
+}
+
+a {
+    font-family: Helvetica;
+    font-size: medium;
+    font-style: italic;
+}
+
+li {
+    font-family: verdana;
+    font-size: large;
+    font-style: oblique;
+    color: black;
+}
+
+table {
+    font-family: monospace;
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
